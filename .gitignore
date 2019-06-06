@@ -1,0 +1,496 @@
+ .gitignore ######################
+# Project Specific
+######################
+/build/www/**
+/src/test/javascript/coverage/
+/src/test/javascript/PhantomJS*/
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+######################
+# SASS
+######################
+.sass-cache/
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+tmp/
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.factorypath
+/src/main/resources/rebel.xml
+# External tool builders
+.externalToolBuilders/**
+# Locally stored "Eclipse launch configurations"
+*.launch
+# CDT-specific
+.cproject
+# PDT-specific
+.buildpath
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+######################
+# Visual Studio Code
+######################
+.vscode/
+######################
+# Maven
+######################
+/log/
+/target/
+######################
+# Gradle
+######################
+.gradle/
+/build/
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+######################
+# Directories
+######################
+/bin/
+/deploy/
+######################
+# Logs
+######################
+*.log
+######################
+# Others
+######################
+*.class
+.~
+*~
+.merge_file*
+######################
+# Gradle Wrapper
+######################
+!gradle/wrapper/gradle-wrapper.jar
+######################
+# Maven Wrapper
+######################
+!.mvn/wrapper/maven-wrapper.jar
+######################
+# ESLint
+######################
+.eslintcache
+Meghna Nevatia10:04 AM
+@channel come for review
+Meghna Nevatia12:02 PM
+@channel update html status sheet
+Meghna Nevatia12:41 PM
+https://docs.google.com/spreadsheets/d/1GfSPnKIWN8lCQjcriEgiCnBu_PvHouUPzo5RZfjwrs4/edit?usp=sharing
+Meghna Nevatia9:28 AM
+@channel make sure you fulfill all the requirements mentioned in evaulation criteria. (edited) 
+Excel Spreadsheet 
+Bootstrap grading criteria.xlsx
+50 kB Excel Spreadsheet — Click to view
+
+
+T Amtullah Mubeen12:29 PM
+https://mail.notes.na.collabserv.com/verse
+Madhuri Hire4:57 PM
+https://getbootstrap.com/docs/4.0/getting-started/download/
+getbootstrap.comgetbootstrap.com
+Download
+Download Bootstrap to get the compiled CSS and JavaScript, source code, or include it with your favorite package managers like npm, RubyGems, and more.
+Meghna Nevatia5:24 PM
+@channel move to ground floor for session
+Rohith5:25 PM
+with or without laptops madam
+Meghna Nevatia6:13 PM
+Scrum-cheat-sheet.jpg 
+Scrum-cheat-sheet.jpg
+
+
+Imneet Kaur12:39 PM
+@channel install java 11 and intellij idea community edition (edited)
+install java 11 from here: http://ubuntuhandbook.org/index.php/2018/11/how-to-install-oracle-java-11-in-ubuntu-18-04-18-10/
+and intellij idea community edition from Ubuntu software.
+Nikita Shinde12:40 PM
+ok
+Imneet Kaur12:41 PM
+PDF 
+Creating folders in Intellij.pdf
+308 kB PDF — Click to view
+
+
+@channel Tasks for Today ---https://docs.google.com/document/d/1fdt0d1I8dIbENJ-yXkqFyAzq2cSoY_Rw-hw_gvbPtQI/edit
+GSuite Document 
+Cycle 1 LM
+Document from Google DriveClick to open in Google Drive
+
+
+Imneet Kaur2:28 PM
+@channel Ensure that you are familiar with these keywords by end of the day.Conditional Statements and Loops, Arrays
+(if-else construct
+switch-case construct
+Hands on: Conditional construct
+while loop
+for loop
+do-while loop
+Branching - break, continue, labels
+Enhanced for loop
+Hands on: Looping construct
+Defining and initializing arrays
+Single dimension arrays
+Two dimensional arrays
+Hands on: Arrays
+)
+Imneet Kaur10:19 AM
+@channel Tasks for Today ---Java cycle 2 Learning links: https://docs.google.com/document/d/1Uja6HTV-HtNDfUFSVdvm2srxeGCfOa32udUkI6QCOM4/edit?usp=sharing
+GSuite Document 
+Cycle 2 LM
+Document from Google DriveClick to open in Google Drive
+
+
+SR-Rutuja10:24 AM
+@channel add .gitignore and Readme.md file in your website repo
+Imneet Kaur10:54 AM
+@channel find Java Coding Standards and ensure that you all follow proper naming conventions while working on practice exercises.
+Plain Text 
+Java coding standard
+Plain TextClick to download
+
+
+Imneet Kaur3:58 PM
+@channel Update Java status in the given sheet -https://docs.google.com/spreadsheets/d/1byxv6_ZgvWTM4lPpzshfzv8OcVGjSChV-JSGCrWEKDE/edit?usp=sharing
+GSuite Spreadsheet 
+IBM Wave6-Java-status
+Spreadsheet from Google DriveClick to open in Google Drive
+
+
+Sushmitha4:01 PM
+@channel we have raised github issues for bootstrap assignments,please go through it and close all the issues
+Ximanta4:25 PM
+public String concatAndConvertString(String str1, String str2){
+       String concatedString=str1.concat(str2);
+       return concatedString.toUpperCase();
+   }
+Ximanta5:19 PM
+Zip 
+junit.zip
+94 kB Zip — Click to download
+
+
+Imneet Kaur5:23 PM
+@channel Go through these HTML & CSS Quiz Links and ensure that you are very clear with all the keywords.
+https://www.w3schools.com/html/html_quiz.asp
+https://www.sanfoundry.com/html-questions-answers-styling-html5-layout-css/
+https://www.sanfoundry.com/html-questions-answers-adding-flash-videos/
+https://www.sanfoundry.com/html-questions-answers-html5-layout-elements/
+https://www.sanfoundry.com/html-questions-answers-html5-semantics-1/
+https://www.sanfoundry.com/html-questions-answers-html5-semantics-2/
+https://www.sanfoundry.com/html-assessment-questions-answers/
+https://www.sanfoundry.com/html-questions-answers-styling-html5-layout-css/
+Imneet Kaur5:35 PM
+@channel find the Java Quiz Link https://docs.google.com/forms/d/e/1FAIpQLSdRu2kHgDjtp3C2htA8oluD_wD3f6rNuG1QBhY_nXUcAuDmFw/viewform?usp=sf_link
+Shivpaw14:27 PM
+@sunitha patchamatla
+This file was deleted.
+Imneet Kaur9:35 AM
+@channel Update Java status in the sheet:- https://docs.google.com/spreadsheets/d/1byxv6_ZgvWTM4lPpzshfzv8OcVGjSChV-JSGCrWEKDE/edit?usp=sharing
+GSuite Spreadsheet 
+IBM Wave6-Java-status
+Spreadsheet from Google DriveClick to open in Google Drive
+
+
+Ximanta9:44 AM
+image.png 
+image.png
+
+
+Imneet Kaur10:32 AM
+https://gitlab.stackroute.in/
+GitLabGitLab
+Sign in
+me.goTo(
+P@ssw0rd
+Imneet Kaur10:54 AM
+https://hobbes.stackroute.in
+Imneet Kaur9:32 AM
+@channel Java Learning Cycle 3 -
+PDF 
+Cycle 3 LM.pdf
+77 kB PDF — Click to view
+
+
+Sushmitha11:34 AM
+Modified Practise exercise 3
+https://docs.google.com/document/d/1vuZ6JagY9SLZxylxHh1oIBOlJ4ETe5CbtbVuLhkySOg/edit?usp=sharing
+Fork this repo and write your code https://github.com/stackroute/Immersive-Java-PE3 (edited) 
+GitHubGitHub
+stackroute/Immersive-Java-PE3
+Contribute to stackroute/Immersive-Java-PE3 development by creating an account on GitHub.
+Sushmitha4:41 PM
+@channel Quiz 2 link: https://docs.google.com/forms/d/e/1FAIpQLSfR5ocvKIa7B0uvGZ0hYQy1Uo46oCb6hvqvQsA6MDNWZzEroA/viewform?usp=sf_link
+Imneet Kaur1:56 PM
+@channel If anyone has lost their HDFC Debit card, then please contact Security.
+Sushmitha4:30 PM
+PDF 
+Cycle 4&5 LM.pdf
+101 kB PDF — Click to view
+
+
+Imneet Kaur10:09 AM
+@channel Find your names in the groups and spend some 30 minutes to 1 hr and just model these problems on notebook
+PDF 
+Java_Object_Modelling_part_1 (1).pdf
+443 kB PDF — Click to view
+
+
+@channel Groups for Java Object Modelling -https://docs.google.com/spreadsheets/d/17Jy_bnQWbskiX-jH-dghz9DxMPdFzuJ4rRlG61pLk20/edit?usp=sharing
+GSuite Spreadsheet 
+JavaObject-Modelling Groups
+Spreadsheet from Google DriveClick to open in Google Drive
+
+
+Sushmitha2:11 PM
+@channel update this sheet https://docs.google.com/spreadsheets/d/1byxv6_ZgvWTM4lPpzshfzv8OcVGjSChV-JSGCrWEKDE/edit?usp=sharing
+SR-Rutuja3:52 PM
+While writing test cases remember this
+@All Test Method naming convention:
+If we write tests for a single class, we should name our test methods by using this formula: [the name of the tested method]_[expected input / tested state]_[expected behavior]. For example, if we write a unit test for a registerNewUserAccount() method which throws an exception when the given email address is already associated with an existing user account, we should name our test method as follows: registerNewUserAccount_ExistingEmailAddressGiven_ShouldThrowException().
+If we write tests for a single feature, we should name our test methods by using this formula: [the name of the tested feature]_[expected input / tested state]_[expected behavior]. For example, if we write an integration test which tests that an error message is shown when a user tries to create a new user account by using an email address which is already associated with an existing user account, we should name out test method as follows: registerNewUserAccount_ExistingEmailAddressGiven_ShouldShowErrorMessage().
+SR-Rutuja5:00 PM
+@channel solve issues which we raised in your repo
+Sushmitha9:38 AM
+@channel Those who completed PE4 start with cycle 5 which is already shared
+Sushmitha5:04 PM
+@channel Link to study SOLID Principles --https://howtodoinjava.com/best-practices/5-class-design-principles-solid-in-java/
+HowToDoInJavaHowToDoInJava
+5 Class Design Principles
+Discussing 5 most recommended design principles, you should keep in mind, while writing your classes. These design principles are called SOLID, in short. They also form the best practices to be followed for designing your application classes.(44 kB)
+https://cdn2.howtodoinjava.com/wp-content/uploads/solid_class_design_principles.png
+Sushmitha9:35 AM
+@channel Make a team of 4 people and work on this Activity on SOLID Principles -http://13.67.67.52/pluginfile.php/1136/mod_resource/content/1/SOLID%20PRINCIPLES%20TASKS.pdf
+Imneet Kaur9:51 AM
+@ channel Learning Material for Streams in Java -http://tutorials.jenkov.com/java-collections/streams.html     https://www.youtube.com/watch?v=9Orn0Pwp3YU
+tutorials.jenkov.comtutorials.jenkov.com
+Java Collections and Streams
+This tutorial explains how to use the Java Stream API with the Java Collections API. The Stream API can be used to process elements in a collection in a more functional programming style.(42 kB)
+http://tutorials.jenkov.com/images/java-collections/java-collections-teaser-500-300.png
+YouTubeYouTubeTelusko
+17.11 Stream API in Java 8 Tutorial
+
+@ channel find the link to study Lambda Expressions:- https://www.youtube.com/watch?v=a450CqNXFgs
+YouTubeYouTubeJava Insight
+Java SE 8 - lntroduction to Lambda Expressions
+
+Imneet Kaur2:13 PM
+@channel start with Java NIO tutorial. Find the link below to start with the tutorial-http://tutorials.jenkov.com/java-nio/index.html
+tutorials.jenkov.comtutorials.jenkov.com
+Java NIO Tutorial
+This tutorial explains how Java NIO works - the IO API in Java which provides non-blocking IO.(35 kB)
+http://tutorials.jenkov.com/images/java-nio/java-nio-teaser-500-300.png
+@channel Ensure that you are familiar with these keywords in Java NIO---
+Overview of Java NIO
+Channels, Buffers & Selectors
+Channel Implementations
+FileChannel
+Usage of Buffer
+Buffer Types
+Allocating a buffer
+Writing data to a buffer
+Reading data from a buffer
+Scattered Reads & Gathering Writes
+Channel to Channel Transfers
+Usage of Selectors
+Creating a selector
+Registering channels with the selector
+Selecting Channels via a selector
+Using AsynchronousFileChannel
+Reading data through Future and Completion Handler
+Writing data through Future and Completion Handler
+Imneet Kaur2:52 PM
+@channel After you finish Java NIO continue with Lambda expressions,Streams and Multithreading. Links for Multithreading https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html https://www.youtube.com/watch?v=AfVbJDr-8ic
+docs.oracle.comdocs.oracle.com
+Lesson: Concurrency (The Java™ Tutorials > Essential Classes)
+This Java tutorial describes exceptions, basic input/output, concurrency, regular expressions, and the platform environment
+YouTubeYouTubein28minutes
+Java Multithreading Interview Questions
+
+Imneet Kaur9:55 AM
+@channel ensure that you are familiar with these keywords in Lambda -
+What is Lambda Expression
+Need for Lambda Expression
+Syntax of Lambda Expresssion
+Functional Interface and Implementation
+Type Inference
+Functional interfaces in Java 8
+Using Functionl Interfaces
+Sorting List using Lambda Expression
+Hands on: Lambda Expression
+@channel And make sure you are comfortable with these keywords & topics in Multithreading -Multithreading and Concurrency
+Introduction to Thread
+Thread States
+Managing Threads
+Daemon Threads
+Multithreading vs multitasking
+isAlive() and join() method
+Race condition and ways to overcome them
+Intrinsic lock and synchronization
+Atomic access
+wait() and notify() methods
+deadlock and describe the ways to overcome deadlock
+The java.util.concurrent collections package
+Executors
+Thread pools
+Callables and Futures
+( Process and Java threads.
+Thread Lifecycle
+Creating Threads using Thread class
+Creating Threads using Runnable
+key methods in Thread class
+Hands on: Creating threads
+Shared data, race conditions and Synchronization
+Interthread communication
+Hands on: Synchronization
+)
+Imneet Kaur9:27 AM
+@channel complete your backlogs of concurrency,multihreading,lambdas and Java NIO by 10:30.
+Imneet Kaur10:25 AM
+@channel Start with Module 1 (Working with RDBMS).
+SR-Rutuja10:35 AM
+MySQL_Installation.txt 
+
+MYSQL:
+Install mysql server 5.7 on Ubuntu
+1.update ur system first.
+    sudo apt update
+    sudo apt upgrade
+Click to expand inline (27 lines)
+
+
+MYSQL_without_SUDO.txt 
+
+`DROP USER 'root'@'localhost';`
+`CREATE USER 'root'@'%' IDENTIFIED BY 'Root@123';`
+`GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;`
+`FLUSH PRIVILEGES;`
+Click to expand inline (8 lines)
+
+
+@channel Install mysql using these commands
+Imneet Kaur2:06 PM
+@channel Those who are done with Module1 can start with Module2(Building Blocks of Web Application)
+Imneet Kaur5:48 PM
+@channel find the keywords for Spring and ensure that you are clear with all of these after you complete Module 3(Spring Framework Fundamentals)  What is Spring?
+What is a Framework?
+Benefits of Spring
+Spring Framework Stack (Spring Core project and the other other spring framework subproject )
+Create a Standalone Spring Program
+Build the Program
+Execute the Program
+IoC Container (https://www.packtpub.com/mapt/book/application_development/9781783987368/2
+Dependency Injection
+BeanFactory and ApplicationContext
+Lifecycle
+Scopes
+Autowiring modes
+@Bean (Corresponding legacy XML)
+Bean customization through lifecycle callbacks
+Bean definition inheritance
+( Introduction to Spring
+Benefits of Spring
+Spring Modules and its functions
+Hands on - First Spring program
+Spring Container types
+Working of Spring Container
+Introduction to Dependency Injection
+Advantages of Dependency Injection
+Setter and Constructor Injection
+Hands on - Dependency Injection
+Bean Scope and Lifecycle
+Bean PostProcessor
+Bean Definition Inheritance
+Inner Beans
+Collections
+Autowiring
+Hands on - Collections, Autowiring
+Annotation based configuration
+Stereotypes: @Component, @Service, @Controller, @Repository
+Imneet Kaur10:57 AM
+@channel Below in the shared sheet,find your groups and prepare a proper session for tomorrow at 2 p.m(not a ppt,only implementation through coding) and decide topics amongst your team -----https://docs.google.com/spreadsheets/d/1vG3hAW-HMleoz4p5zItfLoQPdf-qCaucMa8LP80tYHI/edit?usp=sharing
+GSuite Spreadsheet 
+Java Hackathon
+Spreadsheet from Google DriveClick to open in Google Drive
+
+
+Imneet Kaur11:28 AM
+https://docs.google.com/forms/d/e/1FAIpQLSdQMe0gk1fMuPf8BcEcuMwuxkxU-3jo13mpabGbwYpjEl4wMA/viewform
+Sushmitha2:59 PM
+PDF 
+Spring-Core-XML-Tasks.pdf
+498 kB PDF — Click to view
+
+
+Madhuri Hire2:58 PM
+https://github.com/madhurih/spring-xml-demo.git
+GitHubGitHub
+madhurih/spring-xml-demo
+Contribute to madhurih/spring-xml-demo development by creating an account on GitHub.
+Sushmitha9:31 AM
+@channel Update the sheet https://docs.google.com/spreadsheets/d/11AZMs7uJVrKOkSPikQ5Lpahlmy043UmhqpzszXtt4Fk/edit?usp=sharing
+Sushmitha10:03 AM
+AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
+       ctx.register(AppConfig.class);
+       ctx.refresh();
+       HelloWorld helloWorld = (HelloWorld) ctx.getBean("helloWorld");
+SR-Rutuja5:06 PM
+@channel https://docs.google.com/forms/d/e/1FAIpQLSdcKVf6_lWSPT438ASAFy452M5hfvrIb1Mqf2AGv3x74A08ww/viewform Spring core quiz
+Sushmitha5:41 PM
+@channel Go through this Link now to start with Spring MVC -https://www.codejava.net/frameworks/spring/understanding-spring-mvc?showall=&start=1
+codejava.net
+Understanding Spring MVC
+An overview of Spring's MVC module based on Fromt Controller and MVC design pattern for web application development
+Imneet Kaur12:56 PM
+@channel Start with KeepNote Assessment-- https://gitlab.stackroute.in/stack_java_keep/KeepNote-Step1-Boilerplate
+GitLabGitLab
+Sign in
+Private Source Code Repository of StackRoute
+Imneet Kaur12:24 PM
+@channel find the link for spring-mvc-quiz:-https://docs.google.com/forms/d/e/1FAIpQLSfNvaOVx7zre6NQGkkY4Idw3xwPurD1yhIrRqksAANm6yFf0Q/viewform?usp=sf_link
+
