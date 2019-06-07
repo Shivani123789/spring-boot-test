@@ -1,0 +1,7 @@
+com/stackorute/muzixservice/service/MuzixService.class
+com/stackorute/muzixservice/controller/Controller.class
+com/stackorute/muzixservice/MuzixServiceApplication.class
+com/stackorute/muzixservice/service/MuzixServiceImp.class
+com/stackorute/muzixservice/domain/TrackDetails.class
+com/stackorute/muzixservice/config/Configuration.class
+com/stackorute/muzixservice/repository/MuzixRepository.class
